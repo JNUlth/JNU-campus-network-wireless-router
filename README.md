@@ -92,6 +92,7 @@ mtd -r write breed-mt7620-xiaomi-mini.bin Bootloader
 一切顺利的话得如下界面
 
 <div align=center><img src="https://github.com/JNUlth/JNU-campus-network-wireless-router/blob/main/show/1.png" width = "80%" alt="" ></div>
+
 ## 网络配置
 熟悉一下界面，把一些自动开启的无用功能关闭
 系统默认开启2.4G和5G两个频段WiFi，自行修改名称密码
@@ -108,6 +109,7 @@ mtd -r write breed-mt7620-xiaomi-mini.bin Bootloader
 
 然后便是全文最关键的地方
 <div align=center><img src="https://github.com/JNUlth/JNU-campus-network-wireless-router/blob/main/show/3.png" width = "80%" alt="" ></div>
+
 **登录室友的双通道账号**（单通道不行）
 
 路由器wan口接宿舍网口，lan口连电脑
